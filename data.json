@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "sumanta",
+    "age": 100,
+    "city": "kolkata"
+  },
+  {
+    "id": 2,
+    "name": "bikash",
+    "age": 10,
+    "city": "delhi"
+  },
+  {
+    "id": 3,
+    "name": "samir",
+    "age": 99,
+    "city": "bengalore"
+  },
+  {
+    "id": 4,
+    "name": "pravenjit",
+    "age": 80,
+    "city": "noida"
+  }
+]
